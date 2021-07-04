@@ -660,7 +660,5 @@ menu
 
 fi
 }
-
-
-banner
+sajjad
 menu
